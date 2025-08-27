@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69f7706-8d10-4d29-85ba-56b2909a9cd1" name="Changes" comment="Module 3">
-      <change afterPath="$PROJECT_DIR$/.idea/Python Programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 1/2 Part 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 2/2 Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 2/2 Part 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 2/2 Part 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 2/2 Part 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 2/2 Part 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/17 Aug 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/17 Aug 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/17 Aug 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/18 Aug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/21 Aug Activity 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/21 Aug Activity 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/21 Aug Activity 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/27 Aug 1.py" afterDir="false" />
+    <list default="true" id="e69f7706-8d10-4d29-85ba-56b2909a9cd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,22 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ChamithuJayathilake"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ChamithuJayathilake&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ChamithuJayathilake/Python_Programming.git",
-    "accountId": "bb1985a0-5604-4d2f-b2a0-e06e1de87413"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ChamithuJayathilake/Python_Programming.git&quot;,
+    &quot;accountId&quot;: &quot;bb1985a0-5604-4d2f-b2a0-e06e1de87413&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="31rM2q0GU1n9JxBGVXYIR2mxQUY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,6 +50,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.27 Aug 1.executor": "Run",
+    "Python.3 Part 1.executor": "Run",
     "Python.3 Part 2.executor": "Run",
     "Python.3 Part 4 another.executor": "Run",
     "Python.3 Part 4.executor": "Run",
@@ -74,14 +60,16 @@
     "Python.Exercise 2 Part 6.executor": "Run",
     "Python.Exercise 3 Part 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -112,6 +100,9 @@
       <workItem from="1756277601726" duration="7000" />
       <workItem from="1756277650800" duration="9658000" />
       <workItem from="1756291010387" duration="2118000" />
+      <workItem from="1756294248383" duration="29000" />
+      <workItem from="1756294292412" duration="261000" />
+      <workItem from="1756294615671" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="Module 3">
       <option name="closed" value="true" />
@@ -132,7 +123,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -143,6 +146,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Module 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Programming$3_Part_1.coverage" NAME="3 Part 1 Coverage Results" MODIFIED="1756294360357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 3" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_2_Part_6.coverage" NAME="Exercise 2 Part 6 Coverage Results" MODIFIED="1756279985969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Part_5.coverage" NAME="3 Part 5 Coverage Results" MODIFIED="1756289934873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$27_Aug_1.coverage" NAME="27 Aug 1 Coverage Results" MODIFIED="1756279727353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
