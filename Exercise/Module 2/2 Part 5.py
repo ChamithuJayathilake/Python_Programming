@@ -1,14 +1,10 @@
+talents = float(input("Enter talents: "))
+pounds = float(input("Enter pounds: "))
+lots = float(input("Enter lots: "))
 
-talent = float(input("Enter talents: "))
-tp = float((talent * 20)*32)*13.3
-pound = float(input("Enter pounds: "))
-pl = float(pound*32)*13.3
-lot = float(input("Enter lots: "))
-lg = float(lot*13.3)
+total_grams = (talents * 20 * 32 * 13.3) + (pounds * 32 * 13.3) + (lots * 13.3)
+kilograms = int(total_grams // 1000)
+remaining_grams = total_grams % 1000
 
-total_grams = tp + pl + lg
-
-kg = int(total_grams // 1000)
-g = (total_grams % 1000)
-
-print(f"The weight in modern units is {kg} kg {g:.2f} g")
+print("The weight in modern units:")
+print(f"{kilograms} kilograms and {remaining_grams:.2f} grams.")
