@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e69f7706-8d10-4d29-85ba-56b2909a9cd1" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 4/assignment 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 4/assignment 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 4/assignment 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 4/assignment 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 5/Part 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 5/Part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 5/Part 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 5/Part 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/3 Sep.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/Module 4/assignmnet 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/Module 4/assignment 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
     "Python.3 Part 4 another.executor": "Run",
     "Python.3 Part 4.executor": "Run",
     "Python.3 Part 5.executor": "Run",
+    "Python.3 Sep.executor": "Run",
     "Python.Exercise 2 Part 2.executor": "Run",
     "Python.Exercise 2 Part 5.executor": "Run",
     "Python.Exercise 2 Part 6.executor": "Run",
@@ -113,7 +114,8 @@
       <workItem from="1756294615671" duration="2097000" />
       <workItem from="1756367752794" duration="639000" />
       <workItem from="1756668487279" duration="713000" />
-      <workItem from="1756879783030" duration="8995000" />
+      <workItem from="1756879783030" duration="9653000" />
+      <workItem from="1756894540671" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="Module 3">
       <option name="closed" value="true" />
@@ -139,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756669108155</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercise">
+      <option name="closed" value="true" />
+      <created>1756889892295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756889892295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +196,7 @@
     <SUITE FILE_PATH="coverage/Python_Programming$Practice_1.coverage" NAME="Practice 1 Coverage Results" MODIFIED="1756296656789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Amathara" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_3_Part_1.coverage" NAME="Exercise 3 Part 1 Coverage Results" MODIFIED="1756281819189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_2_Part_5.coverage" NAME="Exercise 2 Part 5 Coverage Results" MODIFIED="1756279504846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
+    <SUITE FILE_PATH="coverage/Python_Programming$3_Sep.coverage" NAME="3 Sep Coverage Results" MODIFIED="1756896201578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_2_Part_2.coverage" NAME="Exercise 2 Part 2 Coverage Results" MODIFIED="1756278191357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Part_2.coverage" NAME="3 Part 2 Coverage Results" MODIFIED="1756283197041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
   </component>
