@@ -11,5 +11,4 @@ def draw_spruce(size):
     spaces_trunk = " " * (size - 1)
     print(spaces_trunk + "*")
 
-# Example of how to use the function
 draw_spruce(6)
