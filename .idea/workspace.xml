@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e69f7706-8d10-4d29-85ba-56b2909a9cd1" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 6/Part 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 6/Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 6/Part 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 6/Part 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 6/Part 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 6/Part 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 7/Part 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 7/Part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 7/Part 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/3 Sep.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/3 Sep.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +115,8 @@
       <workItem from="1756879783030" duration="9653000" />
       <workItem from="1756894540671" duration="3638000" />
       <workItem from="1756902697727" duration="279000" />
-      <workItem from="1757536217751" duration="731000" />
+      <workItem from="1757536217751" duration="913000" />
+      <workItem from="1757870629295" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="Module 3">
       <option name="closed" value="true" />
@@ -161,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756896586355</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercise">
+      <option name="closed" value="true" />
+      <created>1757537105998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757537105998</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
