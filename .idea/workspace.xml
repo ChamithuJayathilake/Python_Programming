@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e69f7706-8d10-4d29-85ba-56b2909a9cd1" name="Changes" comment="Exercise">
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 7/Part 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 7/Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Module 7/Part 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 8/Part 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 8/Part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Module 8/Part 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/Module 6/Part 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/Module 6/Part 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,38 +52,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.27 Aug 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3 Part 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3 Part 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3 Part 4 another.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3 Part 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3 Part 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3 Sep.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercise 2 Part 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercise 2 Part 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercise 2 Part 6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercise 3 Part 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Practice 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.asssignment 5.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.27 Aug 1.executor": "Run",
+    "Python.3 Part 1.executor": "Run",
+    "Python.3 Part 2.executor": "Run",
+    "Python.3 Part 4 another.executor": "Run",
+    "Python.3 Part 4.executor": "Run",
+    "Python.3 Part 5.executor": "Run",
+    "Python.3 Sep.executor": "Run",
+    "Python.Exercise 2 Part 2.executor": "Run",
+    "Python.Exercise 2 Part 5.executor": "Run",
+    "Python.Exercise 2 Part 6.executor": "Run",
+    "Python.Exercise 3 Part 1.executor": "Run",
+    "Python.Part 1.executor": "Run",
+    "Python.Part 2.executor": "Run",
+    "Python.Part 3.executor": "Run",
+    "Python.Practice 1.executor": "Run",
+    "Python.assignment 3.executor": "Run",
+    "Python.assignment 4.executor": "Run",
+    "Python.asssignment 5.executor": "Run",
+    "Python.exercise.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\chami\Desktop\Metropolia\Year 1\Sem 1\Python Programming\Exercise\Module 2" />
@@ -87,6 +102,60 @@
       <recent name="C:\Users\chami\Desktop\Metropolia\Year 1\Sem 1\Python Programming\Exercise\Module 1" />
       <recent name="C:\Users\chami\Desktop\Metropolia\Year 1\Sem 1\Python Programming\Exercise" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Part 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise/Module 8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise/Module 8/Part 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Part 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Programming" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise/Module 8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise/Module 8/Part 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Part 2" />
+        <item itemvalue="Python.Part 1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -116,7 +185,10 @@
       <workItem from="1756894540671" duration="3638000" />
       <workItem from="1756902697727" duration="279000" />
       <workItem from="1757536217751" duration="913000" />
-      <workItem from="1757870629295" duration="536000" />
+      <workItem from="1757870629295" duration="1178000" />
+      <workItem from="1757917750808" duration="803000" />
+      <workItem from="1758050912148" duration="8465000" />
+      <workItem from="1758180995024" duration="2310000" />
     </task>
     <task id="LOCAL-00001" summary="Module 3">
       <option name="closed" value="true" />
@@ -166,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757537105998</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercise">
+      <option name="closed" value="true" />
+      <created>1757871211516</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757871211516</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,19 +281,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="Exercise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Programming$Part_3.coverage" NAME="Part 3 Coverage Results" MODIFIED="1758182982470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 8" />
     <SUITE FILE_PATH="coverage/Python_Programming$asssignment_5.coverage" NAME="asssignment 5 Coverage Results" MODIFIED="1756888201871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 4" />
     <SUITE FILE_PATH="coverage/Python_Programming$assignment_3.coverage" NAME="assignment 3 Coverage Results" MODIFIED="1756882722546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 4" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Part_1.coverage" NAME="3 Part 1 Coverage Results" MODIFIED="1756294360357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 3" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_2_Part_6.coverage" NAME="Exercise 2 Part 6 Coverage Results" MODIFIED="1756279985969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
+    <SUITE FILE_PATH="coverage/Python_Programming$test.coverage" NAME="test Coverage Results" MODIFIED="1758095007395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Part_5.coverage" NAME="3 Part 5 Coverage Results" MODIFIED="1756289934873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$27_Aug_1.coverage" NAME="27 Aug 1 Coverage Results" MODIFIED="1756279727353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Part_4_another.coverage" NAME="3 Part 4 another Coverage Results" MODIFIED="1756289468371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Part_4.coverage" NAME="3 Part 4 Coverage Results" MODIFIED="1756290067583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
+    <SUITE FILE_PATH="coverage/Python_Programming$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1758096586774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Programming$assignment_4.coverage" NAME="assignment 4 Coverage Results" MODIFIED="1756885147646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 4" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Part_2.coverage" NAME="Part 2 Coverage Results" MODIFIED="1758182936092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 8" />
     <SUITE FILE_PATH="coverage/Python_Programming$Practice_1.coverage" NAME="Practice 1 Coverage Results" MODIFIED="1756296656789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Amathara" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_3_Part_1.coverage" NAME="Exercise 3 Part 1 Coverage Results" MODIFIED="1756281819189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_2_Part_5.coverage" NAME="Exercise 2 Part 5 Coverage Results" MODIFIED="1756279504846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Sep.coverage" NAME="3 Sep Coverage Results" MODIFIED="1756897021193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/Python_Programming$Part_1.coverage" NAME="Part 1 Coverage Results" MODIFIED="1758181918077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Module 8" />
     <SUITE FILE_PATH="coverage/Python_Programming$Exercise_2_Part_2.coverage" NAME="Exercise 2 Part 2 Coverage Results" MODIFIED="1756278191357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
     <SUITE FILE_PATH="coverage/Python_Programming$3_Part_2.coverage" NAME="3 Part 2 Coverage Results" MODIFIED="1756283197041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
   </component>

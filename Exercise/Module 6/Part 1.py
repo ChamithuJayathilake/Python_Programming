@@ -6,8 +6,9 @@ def roll_dice():
 def main():
     while True:
         result = roll_dice()
-        print(result)
         if result == 6:
             break
+        else:
+            print(result)
 
 main()
