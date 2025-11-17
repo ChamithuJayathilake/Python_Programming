@@ -1,46 +1,63 @@
-import json
-from flask import Flask, Response
+import mysql.connector
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-airports = {
-    "EFHK": {"Name": "Helsinki-Vantaa Airport", "Location": "Helsinki"},
-    "EGLL": {"Name": "Heathrow Airport", "Location": "London"},
-    "KJFK": {"Name": "John F. Kennedy International Airport", "Location": "New York"}
-}
+def get_airport_by_icao(icao_code: str):
+    connection = mysql.connector.connect(
+        host="localhost",
+        user="root",
+        password="1234",
+        database="flight_game"
+    )
+    cursor = connection.cursor()
+    sql = "SELECT name, municipality FROM airport WHERE ident = %s"
+    cursor.execute(sql, (icao_code,))
+    row = cursor.fetchone()
+    cursor.close()
+    connection.close()
+    return row
 
-@app.route('/airport/<icao>')
+def is_prime(n: int) -> bool:
+    if n < 2:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+@app.route("/hello")
+def hello():
+    return "Flask is working!"
+
+@app.route("/prime_number/<int:number>")
+def prime_number(number):
+    result = {
+        "Number": number,
+        "isPrime": is_prime(number)
+    }
+    return jsonify(result)
+
+@app.route("/airport/<icao>")
 def airport_info(icao):
     icao = icao.upper()
-    if icao in airports:
-        response = {
+    row = get_airport_by_icao(icao)
+
+    if row:
+        name, location = row
+        result = {
             "ICAO": icao,
-            "Name": airports[icao]["Name"],
-            "Location": airports[icao]["Location"],
-            "status": 200
+            "Name": name,
+            "Location": location
         }
-        return response
     else:
-        response = {
-            "message": "Airport not found",
-            "status": 404
+        result = {
+            "ICAO": icao,
+            "Name": None,
+            "Location": None
         }
-        json_response = json.dumps(response)
-        http_response = Response(response=json_response, status=404, mimetype="application/json")
-        return http_response
 
-@app.errorhandler(404)
-def page_not_found(error_code):
-    response = {
-        "message": "Invalid endpoint",
-        "status": 404
-    }
-    json_response = json.dumps(response)
-    http_response = Response(response=json_response, status=404, mimetype="application/json")
-    return http_response
+    return jsonify(result)
 
-if __name__ == '__main__':
-    app.run(use_reloader=True, host='127.0.0.1', port=5000)
-
-
-# Example request http://127.0.0.1:5000/airport/EFHK
+if __name__ == "__main__":
+    app.run(debug=True)
